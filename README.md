@@ -1,7 +1,3 @@
-Okay, based on your request and the provided code, here's a `README.md` file that aims to be as accurate and directly usable as possible when copy-pasted into your GitHub repository. I've included anchor links where they seemed appropriate to improve navigation.
-
----
-
 # Shift Scheduling Application
 
 This project is a **Shift Scheduling Application** designed to simplify the process of creating, optimizing, and managing work schedules for a team. The application uses a combination of front-end technologies (HTML, JavaScript, FullCalendar) and back-end logic (Python with DEAP for optimization) to generate efficient and fair work schedules.
@@ -30,7 +26,6 @@ This project is a **Shift Scheduling Application** designed to simplify the proc
 3. [Usage Guide](#usage-guide)
 4. [Optimization Rules](#optimization-rules)
 5. [Screenshots](#screenshots)
-6. [License](#license)
 
 ---
 
@@ -110,27 +105,18 @@ The algorithm uses a genetic approach to find an optimal solution that satisfies
 
 ## Screenshots 
 
-Add screenshots here if available, such as:
+![image](https://github.com/user-attachments/assets/e3b366f4-c284-4a29-bc63-741babcb316f)
+![image](https://github.com/user-attachments/assets/86aeca7b-4aee-4412-9577-81e6f341b603)
+![image](https://github.com/user-attachments/assets/1b3f94b7-694f-47f4-bac4-864ae19c9730)
 
-1. **Add Team Members Interface**
-2. **Optimized Calendar View**
-3. **Metrics Dashboard**
 
----
 
-## License 
 
-This project is licensed under the MIT License. See `LICENSE` for details.
+
 
 ---
 
-**Note**: Replace `"https://github.com/your-repo/shift-scheduling.git"` with the actual URL of your GitHub repository.
 
-Copy and paste this content directly into your `README.md` file on GitHub. Make sure to replace placeholders and verify all links and formatting after pasting. This should render correctly on GitHub. If any issues arise, please let me know!
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/58288857/3b2341a1-39a9-491e-89e1-3987f833eb5c/paste.txt
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/58288857/b53a8a8d-44a7-45b0-93cd-62914b69a988/paste-2.txt
 
----
-Answer from Perplexity: pplx.ai/share
+
