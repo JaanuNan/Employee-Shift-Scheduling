@@ -61,7 +61,7 @@ This project is a **Shift Scheduling Application** designed to simplify the proc
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/shift-scheduling.git
+   git repo clone JaanuNan/Employee-Shift-Scheduling
    cd shift-scheduling
    ```
 2. Start the back-end server:
