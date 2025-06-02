@@ -1,4 +1,4 @@
-# Shift Scheduling Application
+# Genetic Shift Scheduler
 
 This project is a **Shift Scheduling Application** designed to simplify the process of creating, optimizing, and managing work schedules for a team. The application uses a combination of front-end technologies (HTML, JavaScript, FullCalendar) and back-end logic (Python with DEAP for optimization) to generate efficient and fair work schedules.
 
